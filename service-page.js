@@ -440,7 +440,11 @@ Object.assign(servicePages, {
   }
 });
 
-const pageKey = location.pathname.split("/").pop() || "vedic-astrology.html";
+const getPageKey = () => {
+  const slug = location.pathname.split("/").filter(Boolean).pop() || "vedic-astrology";
+  return slug.endsWith(".html") ? slug : `${slug}.html`;
+};
+const pageKey = getPageKey();
 const service = servicePages[pageKey];
 const arrow = "&nearr;";
 

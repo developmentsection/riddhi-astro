@@ -29,7 +29,11 @@ const footer = `
 
 document.querySelector("[data-header]").innerHTML = header;
 document.querySelector("[data-footer]").innerHTML = footer;
-const currentPage = location.pathname.split("/").pop() || "index.html";
+const normalizePageKey = () => {
+  const slug = location.pathname.split("/").filter(Boolean).pop() || "index";
+  return slug.endsWith(".html") ? slug : `${slug}.html`;
+};
+const currentPage = normalizePageKey();
 document.querySelectorAll(".desktop-nav>a,.nav-services>a").forEach(link => {
   if (link.getAttribute("href") === currentPage) link.classList.add("active");
 });
