@@ -50,3 +50,8 @@ main p:not(.eyebrow):not(.signature):not(.article-meta),main li{font-size:15px;l
 
 /* Final mobile header alignment override */
 @media(max-width:900px){.site-header{grid-template-columns:1fr auto!important;padding:0 24px!important}.brand{justify-self:start}.menu-toggle{justify-self:end;margin-left:auto}}
+
+/* Stronger emphasis and high-contrast footer readability */
+.hero-intro strong,.approach-copy strong,.about-mission-copy strong{font-weight:600;color:var(--ink)}
+.premium-footer .footer-main a,.premium-footer .footer-main>div:not(.footer-brand) p{color:#f1eee7;font-weight:500}.premium-footer .footer-brand .footer-brand-note{color:#d8e0dc;font-weight:500}.premium-footer .footer-direct{color:#fff!important;font-weight:600!important}.premium-footer .footer-direct small{color:#d8c48f;font-weight:600}.premium-footer .footer-address{color:#f1eee7!important;font-weight:500}.premium-footer .footer-address strong{font-weight:600}.premium-footer .footer-bottom{color:#d8e0dc}.premium-footer .footer-bottom a{font-weight:600}
+.premium-footer .footer-links a,.premium-footer .footer-service-list a{color:#fff!important;font-weight:600;opacity:1}

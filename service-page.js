@@ -225,22 +225,22 @@ const servicePages = {
     final: "Bring greater clarity, timing awareness, and purpose to your business decisions."
   },
   "love-astrology.html": {
-    title: "Love Astrology",
-    meta: "Personal Love Astrology consultation for emotional patterns, compatibility, relationship challenges, commitment timing, and love-marriage clarity.",
+    title: "Relationship Guidance",
+    meta: "Personal Relationship Guidance consultation for emotional patterns, compatibility, relationship challenges, commitment timing, and love-marriage clarity.",
     kicker: "Emotional patterns, compatibility & commitment",
     accent: "Understand your love story with a balanced reading of feelings, relationship patterns, compatibility, and timing.",
     image: "service-reading.webp",
     secondImage: "blog-marriage.jpg",
     introHeading: "Love brings connection and growth, but important relationship decisions often need more than emotion alone.",
     intro: [
-      "Love Astrology helps individuals and couples understand the emotional patterns, communication styles, compatibility, strengths, challenges, and planetary influences shaping their relationships. It provides a broader perspective when feelings are strong but direction remains uncertain.",
+      "Relationship Guidance helps individuals and couples understand the emotional patterns, communication styles, compatibility, strengths, challenges, and planetary influences shaping their relationships. It provides a broader perspective when feelings are strong but direction remains uncertain.",
       "A consultation may be helpful at the beginning of a meaningful relationship, during repeated misunderstandings, while considering commitment or marriage, or after a relationship has changed. The purpose is not to judge the relationship but to understand what it is asking from both people.",
       "Dr. Sunnita Bhatt studies individual and combined birth charts to offer honest, practical guidance. The reading can explore long-term alignment, emotional maturity, family expectations, financial attitudes, karmic patterns, and favorable timing while respecting personal choice and privacy."
     ],
     quote: "When emotion meets awareness, love can be approached with greater honesty, steadiness, and direction.",
     meaningHeading: "A compassionate reading of emotional needs, relationship dynamics, and long-term potential.",
     meaning: [
-      "Love Astrology studies the Moon, Venus, Mars, the fifth and seventh houses, relationship lords, aspects, Navamsa, Dashas, and transits. These factors help explain attraction, emotional expression, communication, conflict, commitment, and recurring relationship themes.",
+      "Relationship Guidance studies the Moon, Venus, Mars, the fifth and seventh houses, relationship lords, aspects, Navamsa, Dashas, and transits. These factors help explain attraction, emotional expression, communication, conflict, commitment, and recurring relationship themes.",
       "Compatibility is not only about whether two people get along today. A complete reading considers how the bond may evolve through practical responsibilities, family dynamics, career changes, finances, and different stages of emotional growth."
     ],
     explores: ["Emotional needs and relationship patterns", "Communication, attraction, and conflict styles", "Compatibility and long-term alignment", "Commitment, marriage, and favorable timing", "Family expectations and practical relationship dynamics", "Repeated patterns, separation, healing, and future direction"],
@@ -257,10 +257,10 @@ const servicePages = {
       ["Commitment and love-marriage timing", "Dashas and transits may highlight periods when commitment, marriage discussions, family involvement, or important emotional decisions become more active.", "Timing awareness supports thoughtful preparation but does not replace mutual consent, communication, and practical readiness."],
       ["Healing, closure, and future direction", "After a relationship changes or ends, astrology can help you understand the meaning of the experience and the pattern it may be asking you to recognize.", "The goal is not to remain attached to prediction, but to move forward with greater self-awareness and emotional steadiness."]
     ],
-    audienceHeading: "Love Astrology offers perspective at every stage of a relationship journey.",
+    audienceHeading: "Relationship Guidance offers perspective at every stage of a relationship journey.",
     audience: ["People beginning a meaningful relationship", "Couples facing repeated misunderstandings", "Partners considering commitment or love marriage", "Individuals navigating family expectations", "People seeking clarity after separation or change", "Anyone wanting to understand recurring relationship patterns"],
     faqs: [
-      ["What details are required for a Love Astrology consultation?", "Your birth date, exact or best-known birth time, birthplace, and relationship questions are required. For compatibility, the other person's accurate birth details are also helpful."],
+      ["What details are required for a Relationship Guidance consultation?", "Your birth date, exact or best-known birth time, birthplace, and relationship questions are required. For compatibility, the other person's accurate birth details are also helpful."],
       ["Can astrology tell whether a relationship will last?", "It can reveal compatibility, tendencies, challenges, and timing patterns, but the future of a relationship also depends on communication, maturity, consent, choices, and circumstances."],
       ["Can the consultation help with love marriage?", "Yes. It can explore compatibility, commitment timing, family dynamics, and areas that deserve discussion before marriage."],
       ["Can astrology solve relationship problems?", "It can help identify patterns and provide perspective. Improvement still requires honest communication, appropriate boundaries, mutual effort, and sometimes professional counselling."],
