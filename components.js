@@ -4,8 +4,8 @@ const mailIcon = `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5h18v1
 const pinIcon = `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s7-6.2 7-12a7 7 0 1 0-14 0c0 5.8 7 12 7 12Z"/><circle cx="12" cy="9" r="2.5"/></svg>`;
 const instaIcon = `<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1"/></svg>`;
 const serviceLinks = `<a href="vedic-astrology.html">Vedic Astrology</a><a href="medical-astrology.html">Medical Astrology</a><a href="numerology.html">Numerology</a><a href="vedic-vastu.html">Vedic Vastu</a><a href="astrological-counselling.html">Astrological Counselling</a><a href="birth-chart-analysis.html">Birth Chart Analysis</a><a href="kundali-matching.html">Kundali Matching</a><a href="love-astrology.html">Relationship Guidance</a><a href="financial-astrology.html">Financial Astrology</a><a href="career-astrology.html">Career Astrology</a><a href="business-astrology.html">Business Astrology</a>`;
-const vadodaraMapUrl = "https://www.google.com/search?sca_esv=ec2bff8bd1e2ef21&cs=1&output=search&kgmid=/g/11c5_4wnxw&q=Riddhi+Astrology&shem=epsd1,rimspwouoe&shndl=30&source=sh/x/loc/uni/m1/1&kgs=56e3b9de77271f1b";
-const bharuchMapUrl = "https://www.google.com/search?sca_esv=ec2bff8bd1e2ef21&cs=1&output=search&kgmid=/g/11b5pkp0ql&q=Riddhi+Astrology&shem=epsd1,rimspwouoe&shndl=30&source=sh/x/loc/uni/m1/1&kgs=abddf611f6683d13";
+const vadodaraMapUrl = "https://www.google.com/maps/search/?api=1&query=Riddhi%20Astrology%20404-405%20Trivia%20Mall%20Opp.%20Natubhai%20Circle%20Gotri%20Road%20Vadodara%20Gujarat%20390007";
+const bharuchMapUrl = "https://www.google.com/maps/search/?api=1&query=Riddhi%20Astrology%20104-105%201st%20Floor%20Kunj%20Resi%20Plaza%20Opp.%20Inox%20Multiplex%20Zadeshwar%20Road%20Bharuch%20Gujarat%20390012";
 
 const header = `
 <div class="top-note"><span>Private consultations in Vadodara, Bharuch & worldwide</span><a class="icon-link" href="tel:+919904025820">${phoneIcon}<span>+91 99040 25820</span></a></div>
